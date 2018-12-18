@@ -1,0 +1,8 @@
+app:
+  ping:
+    times: 10
+    url: <todo-define-proper-url>
+    wait-interval-ms: 200
+  headers:
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/71.0.3578.80 Chrome/71.0.3578.80 Safari/537.36
+
